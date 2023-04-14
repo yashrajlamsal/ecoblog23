@@ -10,9 +10,9 @@ params:
   env: production
 
 
-analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
+#analytics:
+#    google:
+#      SiteVerificationTag: "XYZabc"
 
 menu:
   main:
