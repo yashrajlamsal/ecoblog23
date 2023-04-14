@@ -8,6 +8,11 @@ googleAnalytics: G-31C4PJYWFE
 params:
   env: production
 
+
+analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+
 menu:
   main:
     - identifier: categories
