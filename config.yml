@@ -3,6 +3,11 @@ languageCode: en-us
 title: Economic Indicators
 theme: PaperMod
 
+googleAnalytics: G-31C4PJYWFE
+
+params:
+  env: production
+
 menu:
   main:
     - identifier: categories
