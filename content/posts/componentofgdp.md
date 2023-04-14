@@ -12,7 +12,7 @@ This chart and table present data about the different components of the United S
 
 {{< figure src="/images/23/us/pie.svg">}}
 
-The following examination is based on information that was made public by The U.S. Bureau of Economic Analysis (BEA) on March 30, 2023, which is cited as the source for the analysis.
+The following table is based on information that was made public by The U.S. Bureau of Economic Analysis (BEA) on March 30, 2023, which is cited as the source for the analysis.
 
 #### Table: US GDP measured by components of demand for the year 2022 
 

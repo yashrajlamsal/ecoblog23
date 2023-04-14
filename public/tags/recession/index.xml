@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>recession on Macroeconomic Indicators</title>
+    <link>https://ecoindica.com/tags/recession/</link>
+    <description>Recent content in recession on Macroeconomic Indicators</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2023 10:25:51 +0545</lastBuildDate><atom:link href="https://ecoindica.com/tags/recession/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Growth and Recession</title>
+      <link>https://ecoindica.com/posts/growthandrecession/</link>
+      <pubDate>Fri, 14 Apr 2023 10:25:51 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/posts/growthandrecession/</guid>
+      <description>US Historical Growth and Recession The graph shows the US quarterly data on real GDP from 1947 to 2020. Shaded vertical bars represent recession or contraction. </description>
+    </item>
+    
+  </channel>
+</rss>

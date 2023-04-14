@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Economic Indicators</title>
+    <title>Tags on Macroeconomic Indicators</title>
     <link>https://ecoindica.com/tags/</link>
-    <description>Recent content in Tags on Economic Indicators</description>
+    <description>Recent content in Tags on Macroeconomic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ecoindica.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Apr 2023 10:27:36 +0545</lastBuildDate><atom:link href="https://ecoindica.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>china</title>
+      <link>https://ecoindica.com/tags/china/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consumption</title>
+      <link>https://ecoindica.com/tags/consumption/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/consumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>export</title>
+      <link>https://ecoindica.com/tags/export/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/export/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gdp</title>
+      <link>https://ecoindica.com/tags/gdp/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/gdp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>import</title>
+      <link>https://ecoindica.com/tags/import/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/import/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>india</title>
+      <link>https://ecoindica.com/tags/india/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/india/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>investment</title>
+      <link>https://ecoindica.com/tags/investment/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/investment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nepal</title>
+      <link>https://ecoindica.com/tags/nepal/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/nepal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>us</title>
+      <link>https://ecoindica.com/tags/us/</link>
+      <pubDate>Fri, 14 Apr 2023 10:27:36 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/us/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open</title>
+      <link>https://ecoindica.com/tags/open/</link>
+      <pubDate>Fri, 14 Apr 2023 10:26:20 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recession</title>
+      <link>https://ecoindica.com/tags/recession/</link>
+      <pubDate>Fri, 14 Apr 2023 10:25:51 +0545</pubDate>
+      
+      <guid>https://ecoindica.com/tags/recession/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
