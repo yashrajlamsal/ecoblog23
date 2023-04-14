@@ -2,6 +2,8 @@
 title: "International Trade"
 date: 2023-04-14T10:26:20+05:45
 draft: false
+tags: ["US", "export", "import", "open", "nepal"]
+
 ---
 
 # US International Trade

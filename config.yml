@@ -1,13 +1,21 @@
 baseURL: https://ecoindica.com/
 languageCode: en-us
-title: Economic Indicators
+title: Macroeconomic Indicators
 theme: PaperMod
 
 googleAnalytics: G-31C4PJYWFE
 googleAnalytics_v4: G-31C4PJYWFE
 
 params:
-  env: production
+  homeInfoParams:
+    Title: "Macroeconomic Indicators"
+    Content: Welcome you to our website. Here you'll find recent macroeconomic data and its visualization.
+
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+
 
 
 #analytics:
@@ -16,15 +24,11 @@ params:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 20
+      weight: 10
     - identifier: about
       name: About
       url: /about/
-      weight: 30
+      weight: 20

@@ -1,7 +1,9 @@
 ---
 title: "Components of Gross Domestic Product (GDP)"
-date: 2023-04-14T10:06:36+05:45
+date: 2023-04-14T10:27:36+05:45
 draft: false
+tags: ["gdp", "consumption", "investment", "export", "import", "us", "nepal", "china", "india"]
+
 ---
 
 ### The components of US Gross Domestic Product (GDP) 2022
