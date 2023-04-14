@@ -4,6 +4,7 @@ title: Economic Indicators
 theme: PaperMod
 
 googleAnalytics: G-31C4PJYWFE
+googleAnalytics_v4: G-31C4PJYWFE
 
 params:
   env: production
