@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>us on Macroeconomic Indicators</title>
-    <link>https://ecoindica.com/tags/us/</link>
-    <description>Recent content in us on Macroeconomic Indicators</description>
+    <title>2022 on Macroeconomic Indicators</title>
+    <link>https://ecoindica.com/tags/2022/</link>
+    <description>Recent content in 2022 on Macroeconomic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Apr 2023 16:53:59 +0545</lastBuildDate><atom:link href="https://ecoindica.com/tags/us/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Apr 2023 16:53:59 +0545</lastBuildDate><atom:link href="https://ecoindica.com/tags/2022/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inflation</title>
       <link>https://ecoindica.com/posts/inflation/</link>
@@ -23,25 +23,6 @@
       
       <guid>https://ecoindica.com/posts/componentofgdp/</guid>
       <description>The components of US Gross Domestic Product (GDP) 2022 This chart and table present data about the different components of the United States&amp;rsquo; Gross Domestic Product (GDP), including their corresponding amounts and percentages. Examining the table, we can see that the total GDP of the United States in Q4 of 2022 was valued at 26.14 trillion US dollars. Consumption was the biggest contributor to the GDP, amounting to 17.74 trillion US dollars, which makes up 67.</description>
-    </item>
-    
-    <item>
-      <title>International Trade</title>
-      <link>https://ecoindica.com/posts/internationaltrade/</link>
-      <pubDate>Fri, 14 Apr 2023 10:26:20 +0545</pubDate>
-      
-      <guid>https://ecoindica.com/posts/internationaltrade/</guid>
-      <description>US International Trade International Trade time series plot. This graph shows US export and import from year 1929 to 2020.
-Nepal International Trade International Trade time series plot. This graph shows export import from year 2000 to year 2020. </description>
-    </item>
-    
-    <item>
-      <title>Growth and Recession</title>
-      <link>https://ecoindica.com/posts/growthandrecession/</link>
-      <pubDate>Fri, 14 Apr 2023 10:25:51 +0545</pubDate>
-      
-      <guid>https://ecoindica.com/posts/growthandrecession/</guid>
-      <description>US Historical Growth and Recession The graph shows the US quarterly data on real GDP from 1947 to 2020. Shaded vertical bars represent recession or contraction. </description>
     </item>
     
   </channel>
