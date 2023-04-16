@@ -5,4 +5,4 @@ draft: false
 tags: ["gdp", "consumption", "investment", "export", "import", "us", "nepal", "china", "india", "2020"]
 ---
 
-[Components of Gross Domestic Product (GDP) 2020](https://ecoindica.com/posts/first-post/)
+## [Components of Gross Domestic Product (GDP) 2020](https://ecoindica.com/posts/first-post/)
