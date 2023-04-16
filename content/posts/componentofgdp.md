@@ -1,5 +1,5 @@
 ---
-title: "Components of Gross Domestic Product (GDP)"
+title: "Components of Gross Domestic Product (GDP) 2022"
 date: 2023-04-14T10:27:36+05:45
 draft: false
 tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022"]
