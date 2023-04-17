@@ -3,18 +3,23 @@ languageCode: en-us
 title: Economic Indicators
 theme: PaperMod
 
+
+disqusShortname: yourDisqusShortname
+
 googleAnalytics: G-31C4PJYWFE
 googleAnalytics_v4: G-31C4PJYWFE
 
 params:
   homeInfoParams:
-    Title: "Macroeconomic Indicators"
+    Title: "Economic Indicators"
     Content: Welcome you to our website. Here you'll find recent macroeconomic data and its visualization.
 
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
+  comments: true
+
 
 
 
