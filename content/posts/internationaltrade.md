@@ -3,7 +3,9 @@ title: "International Trade"
 date: 2023-04-14T10:26:20+05:45
 draft: false
 tags: ["US", "export", "import", "open", "nepal"]
-
+aliases:
+- /post/article2
+- /posts/internationaltrade
 ---
 
 # US International Trade
