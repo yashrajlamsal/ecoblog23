@@ -29,6 +29,10 @@ params:
 
 menu:
   main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
@@ -37,3 +41,27 @@ menu:
       name: About
       url: /about/
       weight: 20
+
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: false
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    enableDNT: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: false

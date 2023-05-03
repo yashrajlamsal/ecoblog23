@@ -9,6 +9,6 @@ aliases:
 ---
 
 #### US Historical Growth and Recession
-The graph shows the US quarterly data on real GDP from 1947 to 2020. Shaded vertical bars represent recession or contraction.
+This chart illustrates the US real Gross Domestic Product (GDP) on a quarterly basis from 1947 to 2020. The graph includes shaded vertical bars that represent periods of recession or economic contraction. A recession is defined as negative economic growth for two consecutive quarters, and this definition is also applied to this graph. The most recent instances of a recession were observed during the 2008 financial crisis and the COVID-19 pandemic.
 {{< figure src="/images/us/cgdp.svg">}}
 
