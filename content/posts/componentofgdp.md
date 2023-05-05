@@ -10,7 +10,7 @@ aliases:
 
 ### The components of US Gross Domestic Product (GDP) for the year 2023 
 
-This pie chart and table present recent data about the different components of the United States' Gross Domestic Product (GDP), including their corresponding amounts and percentages. Examining the table, we can see that the total GDP of the United States in Q4 of 2022 was valued at 26.14 trillion US dollars. Consumption was the biggest contributor to the GDP, amounting to 17.74 trillion US dollars, which makes up 67.91% of the total GDP. Investment followed next, contributing 4.66 trillion US dollars, which accounts for 17.87% of the GDP, while the government contributed 4.57 trillion US dollars, representing 17.50% of the GDP. Exports contributed 2.98 trillion US dollars, which is 11.43% of the total GDP, and imports contributed 3.84 trillion US dollars, making up 14.71% of the total GDP.
+This pie chart and table present recent data about the four different components of the United States' Gross Domestic Product (GDP), including their corresponding amounts and percentages. Examining the table, we can see that the total GDP of the United States in Q4 of 2022 was valued at 26.14 trillion US dollars. Consumption was the biggest contributor to the GDP, amounting to 17.74 trillion US dollars, which makes up 67.91% of the total GDP. Investment followed next, contributing 4.66 trillion US dollars, which accounts for 17.87% of the GDP, while the government contributed 4.57 trillion US dollars, representing 17.50% of the GDP. Exports contributed 2.98 trillion US dollars, which is 11.43% of the total GDP, and imports contributed 3.84 trillion US dollars, making up 14.71% of the total GDP.
 
 {{< figure src="/images/23/us/pie.svg">}}
 
