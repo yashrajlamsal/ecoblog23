@@ -14,5 +14,5 @@ This chart displays a time series of International Trade, depicting the flow of 
 {{< figure src="/images/us/ei.svg">}}
 
 # Nepal International Trade
-International Trade time series plot. This graph shows export import from year 2000 to year 2020.
+International Trade time series plot. This graph shows export and import from year 2000 to year 2020.
 {{< figure src="/images/np/ei.svg">}}
