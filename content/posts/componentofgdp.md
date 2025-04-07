@@ -1,6 +1,6 @@
 ---
 title: "Components of Gross Domestic Product (GDP) 2024"
-date: 2023-04-14T10:27:36+05:45
+date: {{ .Date }}
 draft: false
 tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown"]
 aliases:
