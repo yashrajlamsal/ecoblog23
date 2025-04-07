@@ -72,7 +72,7 @@ This shows the different component of GDP by percentage.
 {{< figure src="/images/in/pie.svg">}}
 
 # Nepal
-#### Table: Nepl's GDP measured by components of demand for the year 2019/2020
+#### Table: Nepal's GDP measured by components of demand for the year 2019/2020
 
 
 | Components  | Amount (Rs. Billions) | Percent |
