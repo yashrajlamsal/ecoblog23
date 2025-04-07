@@ -89,7 +89,7 @@ This shows the different component of GDP by percentage.
 This shows the different component of GDP by percentage.    
 {{< figure src="/images/np/pie.svg">}}
 
-#### Nepal: Demand from consumption, investment and government
+#### Nepal: Demand from consumption, investment and government from 2000 to 2019
 {{< figure src="/images/np/cig.svg">}}
 
 ### References
