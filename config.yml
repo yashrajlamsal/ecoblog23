@@ -20,7 +20,11 @@ params:
   ShowPostNavLinks: true
   comments: true
 
-
+frontmatter:
+  date:
+    - date
+    - lastmod
+    - :default
 
 
 #analytics:

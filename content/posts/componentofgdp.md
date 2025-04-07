@@ -1,6 +1,6 @@
 ---
 title: "Components of Gross Domestic Product (GDP) 2024"
-date: {{ .Date }}
+date: 2025-04-07
 draft: false
 tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown"]
 aliases:
@@ -85,7 +85,7 @@ This shows the different component of GDP by percentage.
 | Total GDP   | 3767.043              | 100.0%  |
 
 
-#### Nepal: GDP measured by components of demand for the year 2019/20
+#### Nepal: GDP measured by components of demand for the year 2019/2020
 This shows the different component of GDP by percentage.    
 {{< figure src="/images/np/pie.svg">}}
 
