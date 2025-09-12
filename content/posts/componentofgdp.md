@@ -85,11 +85,11 @@ This shows the different component of GDP by percentage.
 | Total GDP   | 3767.043              | 100.0%  |
 
 
-#### Nepal: GDP measured by components of demand for the year 2019/2020
+#### GDP measured by components of demand for the year 2019/2020
 This shows the different component of GDP by percentage.    
 {{< figure src="/images/np/pie.svg">}}
 
-#### Nepal: Demand from consumption, investment and government from 2000 to 2019
+#### Demand from consumption, investment and government from 2000 to 2019
 {{< figure src="/images/np/cig.svg">}}
 
 ### References
