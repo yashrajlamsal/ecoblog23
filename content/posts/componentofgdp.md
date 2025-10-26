@@ -2,7 +2,7 @@
 title: "Components of Gross Domestic Product (GDP) 2024"
 date: 2025-04-07
 draft: false
-tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown"]
+tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2022", "2024", "sector", "breakdown", "latest", "pie", "chart", "pie chart"]
 aliases:
 - /post/first-post
 - /posts/componentofgdp
@@ -94,7 +94,7 @@ This shows the different component of GDP by percentage.
 
 ### References
 
-https://www.bea.gov/sites/default/files/2023-03/gdp4q22_3rd_0.pdf \
+https://www.bea.gov/news/2025/gross-domestic-product-2nd-quarter-2025-third-estimate-gdp-industry-corporate-profits \
 U.S. Department of Commerce: Bureau of Economic Analysis.\
 Federal Reserve Bank of St. Louis, One Federal Reserve Bank \
 Government of Nepal, National Planning Commission, Central Bureau Of Statistics \

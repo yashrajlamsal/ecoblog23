@@ -63,3 +63,8 @@ privacy:
   youtube:
     disable: false
     privacyEnhanced: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
