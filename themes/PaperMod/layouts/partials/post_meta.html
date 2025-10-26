@@ -1,7 +1,9 @@
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+<!-- Debug: Raw Date: {{ .Date }} -->
+<!-- Debug: Formatted Date: {{ .Date.Format "2006-01-02 15:04:05 -0700" }} -->
+{{- $scratch.Add "meta" (slice (.Date.Format (default "January 2, 2006" site.Params.DateFormat))) }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}
@@ -19,5 +21,5 @@
 {{- end }}
 
 {{- with ($scratch.Get "meta") }}
-{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+{{- delimit . "&nbsp;·&nbsp;" -}}
 {{- end -}}
