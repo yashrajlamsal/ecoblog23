@@ -5,7 +5,7 @@ tags: ["gdp", "consumption", "investment", "export", "import", "us",  "2025", "s
 draft: false
 ---
 
-### The components of US Gross Domestic Product (GDP) for the year 2025 
+### The components of US Gross Domestic Product (GDP) for the year 2025 (pie chart and table)
 {{< figure src="/images/25/us/pie.svg">}}
 
 #### Table: US GDP measured by components of demand for the year 2025
