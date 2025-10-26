@@ -1,6 +1,6 @@
 ---
 title: "Nepal's GDP Per Capita Journey: From 3rd Poorest to 28th (2031–2080 BS)"
-date: 2025-09-03T14:39:46+05:45
+date: 2025-10-26T10:30:14+0545
 categories: ["Economy", "Nepal"]
 tags: ["GDP", "Nepal Economy", "Development", "Political History", "Economic Growth", "GDP Per Capita", "Ranking"]
 draft: false
