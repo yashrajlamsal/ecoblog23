@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Economic Indicators</title>
-    <link>http://localhost:36667/</link>
+    <link>http://localhost:33509/</link>
     <description>Recent content on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Oct 2025 10:30:14 +0545</lastBuildDate><atom:link href="http://localhost:36667/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 10:30:14 +0545</lastBuildDate><atom:link href="http://localhost:33509/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Components of Gross Domestic Product (GDP) 2025</title>
-      <link>http://localhost:36667/posts/gdp25/</link>
+      <link>http://localhost:33509/posts/gdp25/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:36667/posts/gdp25/</guid>
-      <description>&lt;h3 id=&#34;the-components-of-us-gross-domestic-product-gdp-for-the-year-2025&#34;&gt;The components of US Gross Domestic Product (GDP) for the year 2025&lt;/h3&gt;
+      <guid>http://localhost:33509/posts/gdp25/</guid>
+      <description>&lt;h3 id=&#34;the-components-of-us-gross-domestic-product-gdp-for-the-year-2025-pie-chart-and-table&#34;&gt;The components of US Gross Domestic Product (GDP) for the year 2025 (pie chart and table)&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/pie.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/pie.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;table-us-gdp-measured-by-components-of-demand-for-the-year-2025&#34;&gt;Table: US GDP measured by components of demand for the year 2025&lt;/h4&gt;
@@ -68,9 +68,9 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;personal-consumption-expenditures&#34;&gt;Personal Consumption Expenditures&lt;/h2&gt;
+&lt;h2 id=&#34;personal-consumption-expenditures-for-the-year-2025&#34;&gt;Personal Consumption Expenditures for the year 2025&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/consumption_breakdown.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/consumption_breakdown.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-2-consumption-expenditure-breakdown&#34;&gt;Table 2: Consumption Expenditure Breakdown&lt;/h3&gt;
@@ -108,7 +108,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;gross-private-domestic-investment&#34;&gt;Gross Private Domestic Investment&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/investment_breakdown.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/investment_breakdown.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-3-investment-components&#34;&gt;Table 3: Investment Components&lt;/h3&gt;
@@ -161,7 +161,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;government-consumption--investment&#34;&gt;Government Consumption &amp;amp; Investment&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/government_breakdown.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/government_breakdown.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-4-government-expenditure-breakdown&#34;&gt;Table 4: Government Expenditure Breakdown&lt;/h3&gt;
@@ -204,7 +204,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;international-trade&#34;&gt;International Trade&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/trade_breakdown.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/trade_breakdown.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-5-exports-and-imports&#34;&gt;Table 5: Exports and Imports&lt;/h3&gt;
@@ -237,7 +237,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;detailed-fixed-investment&#34;&gt;Detailed Fixed Investment&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/detailed_investment.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/detailed_investment.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-6-fixed-investment-composition&#34;&gt;Table 6: Fixed Investment Composition&lt;/h3&gt;
@@ -297,13 +297,13 @@ THE WORLD FACTBOOK&lt;/p&gt;</description>
     
     <item>
       <title>Nepal&#39;s GDP Per Capita Journey: From 3rd Poorest to 28th (from 2031 to 2080 BS)</title>
-      <link>http://localhost:36667/posts/journeynp/</link>
+      <link>http://localhost:33509/posts/journeynp/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:36667/posts/journeynp/</guid>
+      <guid>http://localhost:33509/posts/journeynp/</guid>
       <description>&lt;h3 id=&#34;nepals-gdp-per-capita-journey-from-3rd-poorest-to-28th-from-2031-to-2080-bs&#34;&gt;Nepal&amp;rsquo;s GDP Per Capita Journey: From 3rd Poorest to 28th (from 2031 to 2080 BS)&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/np/nepal_gdp_ranking.png&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/np/nepal_gdp_ranking.png&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;p&gt;Nepal’s economic journey, as measured by GDP per capita rankings, reflects a story of resilience and gradual progress amidst significant political changes. From the Nepali year 2031 BS (1974 CE) to 2080 BS (2023 CE), Nepal climbed from being the &lt;em&gt;world’s third poorest country&lt;/em&gt; to the &lt;em&gt;30th poorest&lt;/em&gt; by 2077 BS (2020 CE) and further to the &lt;em&gt;28th poorest&lt;/em&gt; by 2080 BS (2023 CE). This trajectory, visualized in the chart above, highlights key milestones:&lt;/p&gt;</description>
@@ -311,13 +311,13 @@ THE WORLD FACTBOOK&lt;/p&gt;</description>
     
     <item>
       <title>Components of Gross Domestic Product (GDP) 2024</title>
-      <link>http://localhost:36667/posts/componentofgdp/</link>
+      <link>http://localhost:33509/posts/componentofgdp/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36667/posts/componentofgdp/</guid>
+      <guid>http://localhost:33509/posts/componentofgdp/</guid>
       <description>&lt;h3 id=&#34;the-components-of-us-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of US Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/24/us/pie.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/24/us/pie.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;table-us-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: US GDP measured by components of demand for the year 2024&lt;/h4&gt;
@@ -371,7 +371,7 @@ THE WORLD FACTBOOK&lt;/p&gt;</description>
 &lt;/table&gt;
 &lt;h3 id=&#34;the-components-of-us-gross-domestic-product-gdp-for-the-year-2023&#34;&gt;The components of US Gross Domestic Product (GDP) for the year 2023&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/23/us/pie.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/23/us/pie.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 The pie chart and table present recent data about the four different components of the United States&amp;rsquo; Gross Domestic Product (GDP), including their corresponding amounts and percentages. Examining the table, we can see that the total GDP of the United States in Q4 of 2022 was valued at 26.14 trillion US dollars. Consumption was the biggest contributor to the GDP, amounting to 17.74 trillion US dollars, which makes up 67.91% of the total GDP. Investment followed next, contributing 4.66 trillion US dollars, which accounts for 17.87% of the GDP, while the government contributed 4.57 trillion US dollars, representing 17.50% of the GDP. Exports contributed 2.98 trillion US dollars, which is 11.43% of the total GDP, and imports contributed 3.84 trillion US dollars, making up 14.71% of the total GDP.&lt;/p&gt;</description>
@@ -379,10 +379,10 @@ The pie chart and table present recent data about the four different components 
     
     <item>
       <title>Resources on Economics</title>
-      <link>http://localhost:36667/posts/moreoneconomics/</link>
+      <link>http://localhost:33509/posts/moreoneconomics/</link>
       <pubDate>Fri, 06 Oct 2023 15:09:28 +0545</pubDate>
       
-      <guid>http://localhost:36667/posts/moreoneconomics/</guid>
+      <guid>http://localhost:33509/posts/moreoneconomics/</guid>
       <description>&lt;h1 id=&#34;principles-of-microeconomics-mankiw-n-gregory&#34;&gt;Principles of Microeconomics Mankiw, N. Gregory&lt;/h1&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -439,44 +439,44 @@ The pie chart and table present recent data about the four different components 
     
     <item>
       <title>Inflation</title>
-      <link>http://localhost:36667/posts/inflation/</link>
+      <link>http://localhost:33509/posts/inflation/</link>
       <pubDate>Sat, 15 Apr 2023 16:53:59 +0545</pubDate>
       
-      <guid>http://localhost:36667/posts/inflation/</guid>
+      <guid>http://localhost:33509/posts/inflation/</guid>
       <description>&lt;h3 id=&#34;the-gdp-deflator-and-the-cpi-as-a-measures-of-inflation&#34;&gt;The GDP Deflator and the CPI as a measures of Inflation&lt;/h3&gt;
 &lt;p&gt;Inflation refers to the pace at which prices increase over time. The graph displays the two types of inflation indicators used: the GDP Deflator and the Consumer Price Index (CPI), from 1965 to 2022. The two measures of inflation mostly move in tandem with occasional deviations. If you want to learn more about these indicators, the book &amp;ldquo;Principles of Macroeconomics&amp;rdquo; by Gregory Mankiw is a useful resource.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>International Trade</title>
-      <link>http://localhost:36667/posts/internationaltrade/</link>
+      <link>http://localhost:33509/posts/internationaltrade/</link>
       <pubDate>Fri, 14 Apr 2023 10:26:20 +0545</pubDate>
       
-      <guid>http://localhost:36667/posts/internationaltrade/</guid>
+      <guid>http://localhost:33509/posts/internationaltrade/</guid>
       <description>&lt;h1 id=&#34;us-international-trade&#34;&gt;US International Trade&lt;/h1&gt;
 &lt;p&gt;This chart displays a time series of International Trade, depicting the flow of US exports and imports from 1929 to 2020. The graph exhibits two lines; the blue line shows the amount of goods and services exported from the United States to the rest of the world, and the other line represents the amount imported into the United States from the rest of the world. The two lines moved in tandem until the early 1980s, after which they started to diverge. The graph indicates that since then, the United States has been importing more than it has been exporting, resulting in a negative net export or trade deficit. The chart also reveals two significant fluctuations, one during the 2008 financial crisis and the other during the COVID-19 pandemic.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Growth and Recession</title>
-      <link>http://localhost:36667/posts/growthandrecession/</link>
+      <link>http://localhost:33509/posts/growthandrecession/</link>
       <pubDate>Fri, 14 Apr 2023 10:25:51 +0545</pubDate>
       
-      <guid>http://localhost:36667/posts/growthandrecession/</guid>
+      <guid>http://localhost:33509/posts/growthandrecession/</guid>
       <description>&lt;h4 id=&#34;us-historical-growth-and-recession&#34;&gt;US Historical Growth and Recession&lt;/h4&gt;
 &lt;p&gt;This chart illustrates the US real Gross Domestic Product (GDP) on a quarterly basis from 1947 to 2020. The graph includes shaded vertical bars that represent periods of recession or economic contraction. A recession is defined as negative economic growth for two consecutive quarters, and this definition is also applied to this graph. The most recent instances of a recession were observed during the 2008 financial crisis and the COVID-19 pandemic.
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/us/cgdp.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/us/cgdp.svg&#34;/&gt; 
 &lt;/figure&gt;
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:36667/about/</link>
+      <link>http://localhost:33509/about/</link>
       <pubDate>Fri, 14 Apr 2023 10:06:36 +0545</pubDate>
       
-      <guid>http://localhost:36667/about/</guid>
+      <guid>http://localhost:33509/about/</guid>
       <description>&lt;p&gt;We warmly welcome you to our website, which has been created by Yash Raj Lamsal, an assistant professor of economics at Kathmandu University. Our goal is to provide a top-notch educational experience to students, educators, and anyone interested in comprehending macroeconomic concepts, analyzing them, and presenting data through visually engaging charts and graphs. Our primary objective is to share up-to-date macroeconomic data and provide visual representations of it. Our main focus is publishing recent macroeconomic data and its visualization. The design of this website is based on the open  &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; theme called  &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;Papermod&lt;/a&gt;. Contact us at &lt;a href=&#34;mailto:yashrajlamsal@gmail.com&#34;&gt;yashrajlamsal@gmail.com&lt;/a&gt; for feedbacks.&lt;/p&gt;</description>
     </item>
     

@@ -20,7 +20,7 @@ draft: false
 
 ---
 
-## Personal Consumption Expenditures
+## Personal Consumption Expenditures for the year 2025
 {{< figure src="/images/25/us/consumption_breakdown.svg" >}}
 
 ### Table 2: Consumption Expenditure Breakdown

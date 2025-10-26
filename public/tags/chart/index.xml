@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chart on Economic Indicators</title>
-    <link>http://localhost:36667/tags/chart/</link>
+    <link>http://localhost:33509/tags/chart/</link>
     <description>Recent content in Chart on Economic Indicators</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Oct 2025 10:30:14 +0545</lastBuildDate><atom:link href="http://localhost:36667/tags/chart/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 10:30:14 +0545</lastBuildDate><atom:link href="http://localhost:33509/tags/chart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Components of Gross Domestic Product (GDP) 2025</title>
-      <link>http://localhost:36667/posts/gdp25/</link>
+      <link>http://localhost:33509/posts/gdp25/</link>
       <pubDate>Sun, 26 Oct 2025 10:30:14 +0545</pubDate>
       
-      <guid>http://localhost:36667/posts/gdp25/</guid>
-      <description>&lt;h3 id=&#34;the-components-of-us-gross-domestic-product-gdp-for-the-year-2025&#34;&gt;The components of US Gross Domestic Product (GDP) for the year 2025&lt;/h3&gt;
+      <guid>http://localhost:33509/posts/gdp25/</guid>
+      <description>&lt;h3 id=&#34;the-components-of-us-gross-domestic-product-gdp-for-the-year-2025-pie-chart-and-table&#34;&gt;The components of US Gross Domestic Product (GDP) for the year 2025 (pie chart and table)&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/pie.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/pie.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;table-us-gdp-measured-by-components-of-demand-for-the-year-2025&#34;&gt;Table: US GDP measured by components of demand for the year 2025&lt;/h4&gt;
@@ -68,9 +68,9 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;personal-consumption-expenditures&#34;&gt;Personal Consumption Expenditures&lt;/h2&gt;
+&lt;h2 id=&#34;personal-consumption-expenditures-for-the-year-2025&#34;&gt;Personal Consumption Expenditures for the year 2025&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/consumption_breakdown.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/consumption_breakdown.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-2-consumption-expenditure-breakdown&#34;&gt;Table 2: Consumption Expenditure Breakdown&lt;/h3&gt;
@@ -108,7 +108,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;gross-private-domestic-investment&#34;&gt;Gross Private Domestic Investment&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/investment_breakdown.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/investment_breakdown.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-3-investment-components&#34;&gt;Table 3: Investment Components&lt;/h3&gt;
@@ -161,7 +161,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;government-consumption--investment&#34;&gt;Government Consumption &amp;amp; Investment&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/government_breakdown.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/government_breakdown.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-4-government-expenditure-breakdown&#34;&gt;Table 4: Government Expenditure Breakdown&lt;/h3&gt;
@@ -204,7 +204,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;international-trade&#34;&gt;International Trade&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/trade_breakdown.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/trade_breakdown.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-5-exports-and-imports&#34;&gt;Table 5: Exports and Imports&lt;/h3&gt;
@@ -237,7 +237,7 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;detailed-fixed-investment&#34;&gt;Detailed Fixed Investment&lt;/h2&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/25/us/detailed_investment.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/25/us/detailed_investment.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h3 id=&#34;table-6-fixed-investment-composition&#34;&gt;Table 6: Fixed Investment Composition&lt;/h3&gt;
@@ -297,13 +297,13 @@ THE WORLD FACTBOOK&lt;/p&gt;</description>
     
     <item>
       <title>Components of Gross Domestic Product (GDP) 2024</title>
-      <link>http://localhost:36667/posts/componentofgdp/</link>
+      <link>http://localhost:33509/posts/componentofgdp/</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:36667/posts/componentofgdp/</guid>
+      <guid>http://localhost:33509/posts/componentofgdp/</guid>
       <description>&lt;h3 id=&#34;the-components-of-us-gross-domestic-product-gdp-for-the-year-2024&#34;&gt;The components of US Gross Domestic Product (GDP) for the year 2024&lt;/h3&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/24/us/pie.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/24/us/pie.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 &lt;h4 id=&#34;table-us-gdp-measured-by-components-of-demand-for-the-year-2024&#34;&gt;Table: US GDP measured by components of demand for the year 2024&lt;/h4&gt;
@@ -357,7 +357,7 @@ THE WORLD FACTBOOK&lt;/p&gt;</description>
 &lt;/table&gt;
 &lt;h3 id=&#34;the-components-of-us-gross-domestic-product-gdp-for-the-year-2023&#34;&gt;The components of US Gross Domestic Product (GDP) for the year 2023&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:36667/images/23/us/pie.svg&#34;/&gt; 
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:33509/images/23/us/pie.svg&#34;/&gt; 
 &lt;/figure&gt;
 
 The pie chart and table present recent data about the four different components of the United States&amp;rsquo; Gross Domestic Product (GDP), including their corresponding amounts and percentages. Examining the table, we can see that the total GDP of the United States in Q4 of 2022 was valued at 26.14 trillion US dollars. Consumption was the biggest contributor to the GDP, amounting to 17.74 trillion US dollars, which makes up 67.91% of the total GDP. Investment followed next, contributing 4.66 trillion US dollars, which accounts for 17.87% of the GDP, while the government contributed 4.57 trillion US dollars, representing 17.50% of the GDP. Exports contributed 2.98 trillion US dollars, which is 11.43% of the total GDP, and imports contributed 3.84 trillion US dollars, making up 14.71% of the total GDP.&lt;/p&gt;</description>
