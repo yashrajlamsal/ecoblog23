@@ -20,7 +20,6 @@ params:
   ShowPostNavLinks: true
   comments: true
 
-
 #analytics:
 #    google:
 #      SiteVerificationTag: "XYZabc"
