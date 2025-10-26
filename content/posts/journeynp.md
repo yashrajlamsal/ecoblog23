@@ -9,13 +9,6 @@ draft: false
 ### Nepal's GDP Per Capita Journey: From 3rd Poorest to 28th (2031–2080 BS)
 {{< figure src="/images/25/np/nepal_gdp_ranking.png">}}
 
-<iframe src="/images/25/np/nepal_gdp_ranking.html" width="100%" height="600" style="border:none;"></iframe>
-
-{{< rawhtml >}}
-{{< include "/images/25/np/nepal_gdp_ranking.html" >}}
-{{< /rawhtml >}}
-
-
 Nepal’s economic journey, as measured by GDP per capita rankings, reflects a story of resilience and gradual progress amidst significant political changes. From the Nepali year 2031 BS (1974 CE) to 2080 BS (2023 CE), Nepal climbed from being the *world’s third poorest country* to the *30th poorest* by 2077 BS (2020 CE) and further to the *28th poorest* by 2080 BS (2023 CE). This trajectory, visualized in the chart above, highlights key milestones:
 
 - **2031 BS (1974 CE)**: Nepal ranked as the world’s third poorest nation, facing significant economic challenges.
